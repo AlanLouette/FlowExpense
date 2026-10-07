@@ -1,0 +1,22 @@
+/data
+/data/attachments
+/data/dump.sql
+/data/expenses.db
+.DS_Store
+/public/.DS_Store
+.env
+/public/hosting-config.php
+/dist/
+/tests/__pycache__/
+
+# Local credentials and application storage must never be published.
+.env.*
+!.env.example
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+/flowexpense-private/
+/flowexpense-guest-data/
+__pycache__/

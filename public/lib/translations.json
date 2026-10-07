@@ -1,0 +1,1782 @@
+{
+  "Dashboard": {
+    "nl": "Dashboard",
+    "fr": "Tableau de bord",
+    "en": "Dashboard"
+  },
+  "Nieuwe onkostennota": {
+    "nl": "Nieuwe onkostennota",
+    "fr": "Nouvelle note de frais",
+    "en": "New expense report"
+  },
+  "Onkostennota bewerken": {
+    "nl": "Onkostennota bewerken",
+    "fr": "Modifier la note de frais",
+    "en": "Edit expense report"
+  },
+  "Onkostennota bijwerken": {
+    "nl": "Onkostennota bijwerken",
+    "fr": "Mettre à jour la note de frais",
+    "en": "Update expense report"
+  },
+  "Onkostennota": {
+    "nl": "Onkostennota",
+    "fr": "Note de frais",
+    "en": "Expense report"
+  },
+  "Onkostennota's": {
+    "nl": "Onkostennota's",
+    "fr": "Notes de frais",
+    "en": "Expense reports"
+  },
+  "Ontvangers": {
+    "nl": "Ontvangers",
+    "fr": "Bénéficiaires",
+    "en": "Recipients"
+  },
+  "Categorieën": {
+    "nl": "Categorieën",
+    "fr": "Catégories",
+    "en": "Categories"
+  },
+  "Eenheden": {
+    "nl": "Eenheden",
+    "fr": "Unités",
+    "en": "Units"
+  },
+  "Instellingen": {
+    "nl": "Instellingen",
+    "fr": "Paramètres",
+    "en": "Settings"
+  },
+  "Gebruikers": {
+    "nl": "Gebruikers",
+    "fr": "Utilisateurs",
+    "en": "Users"
+  },
+  "Gebruikersbeheer": {
+    "nl": "Gebruikersbeheer",
+    "fr": "Gestion des utilisateurs",
+    "en": "User management"
+  },
+  "Organisaties": {
+    "nl": "Organisaties",
+    "fr": "Organisations",
+    "en": "Organizations"
+  },
+  "Afmelden": {
+    "nl": "Afmelden",
+    "fr": "Se déconnecter",
+    "en": "Sign out"
+  },
+  "Organisatie": {
+    "nl": "Organisatie",
+    "fr": "Organisation",
+    "en": "Organization"
+  },
+  "Overzicht": {
+    "nl": "Overzicht",
+    "fr": "Vue d’ensemble",
+    "en": "Overview"
+  },
+  "Je bekijkt de onkostennota's voor": {
+    "nl": "Je bekijkt de onkostennota's voor",
+    "fr": "Vous consultez les notes de frais de",
+    "en": "You are viewing expense reports for"
+  },
+  ". Alle bedragen zijn exclusief BTW.": {
+    "nl": ". Alle bedragen zijn exclusief BTW.",
+    "fr": ". Les montants affichés sont TTC.",
+    "en": ". Displayed amounts include VAT."
+  },
+  "Totaal bedrag": {
+    "nl": "Totaal bedrag",
+    "fr": "Montant total",
+    "en": "Total amount"
+  },
+  "Openstaand": {
+    "nl": "Openstaand",
+    "fr": "En attente",
+    "en": "Outstanding"
+  },
+  "Categorie": {
+    "nl": "Categorie",
+    "fr": "Catégorie",
+    "en": "Category"
+  },
+  "Alle categorieën": {
+    "nl": "Alle categorieën",
+    "fr": "Toutes les catégories",
+    "en": "All categories"
+  },
+  "Ontvanger": {
+    "nl": "Ontvanger",
+    "fr": "Bénéficiaire",
+    "en": "Recipient"
+  },
+  "Alle ontvangers": {
+    "nl": "Alle ontvangers",
+    "fr": "Tous les bénéficiaires",
+    "en": "All recipients"
+  },
+  "Status": {
+    "nl": "Status",
+    "fr": "Statut",
+    "en": "Status"
+  },
+  "Alle statussen": {
+    "nl": "Alle statussen",
+    "fr": "Tous les statuts",
+    "en": "All statuses"
+  },
+  "Reset filters": {
+    "nl": "Reset filters",
+    "fr": "Réinitialiser les filtres",
+    "en": "Reset filters"
+  },
+  "Selecteer alles": {
+    "nl": "Selecteer alles",
+    "fr": "Tout sélectionner",
+    "en": "Select all"
+  },
+  "Exporteer selectie (PDF)": {
+    "nl": "Exporteer selectie (PDF)",
+    "fr": "Exporter la sélection (PDF)",
+    "en": "Export selected reports (PDF)"
+  },
+  "Verwijder selectie": {
+    "nl": "Verwijder selectie",
+    "fr": "Supprimer la sélection",
+    "en": "Delete selected reports"
+  },
+  "Er zijn geen onkostennota's gevonden met de huidige filters.": {
+    "nl": "Er zijn geen onkostennota's gevonden met de huidige filters.",
+    "fr": "Aucune note de frais ne correspond aux filtres.",
+    "en": "No expense reports match these filters."
+  },
+  "Nummer": {
+    "nl": "Nummer",
+    "fr": "Numéro",
+    "en": "Number"
+  },
+  "Omschrijving": {
+    "nl": "Omschrijving",
+    "fr": "Description",
+    "en": "Description"
+  },
+  "Datum": {
+    "nl": "Datum",
+    "fr": "Date",
+    "en": "Date"
+  },
+  "Totaal": {
+    "nl": "Totaal",
+    "fr": "Total",
+    "en": "Total"
+  },
+  "Bijlagen": {
+    "nl": "Bijlagen",
+    "fr": "Justificatifs",
+    "en": "Attachments"
+  },
+  "Acties": {
+    "nl": "Acties",
+    "fr": "Actions",
+    "en": "Actions"
+  },
+  "Bewerken": {
+    "nl": "Bewerken",
+    "fr": "Modifier",
+    "en": "Edit"
+  },
+  "Geen omschrijving": {
+    "nl": "Geen omschrijving",
+    "fr": "Aucune description",
+    "en": "No description"
+  },
+  "Open": {
+    "nl": "Open",
+    "fr": "En attente",
+    "en": "Open"
+  },
+  "Complete": {
+    "nl": "Complete",
+    "fr": "Validée",
+    "en": "Approved"
+  },
+  "Paid": {
+    "nl": "Paid",
+    "fr": "Payée",
+    "en": "Paid"
+  },
+  "Onkostennota nummer": {
+    "nl": "Onkostennota nummer",
+    "fr": "Numéro de note de frais",
+    "en": "Expense report number"
+  },
+  "Bijvoorbeeld EXP-0001": {
+    "nl": "Bijvoorbeeld EXP-0001",
+    "fr": "Par exemple EXP-0001",
+    "en": "For example EXP-0001"
+  },
+  "Ontvanger selecteren": {
+    "nl": "Ontvanger selecteren",
+    "fr": "Choisir un bénéficiaire",
+    "en": "Select a recipient"
+  },
+  "-- Selecteer bestaande ontvanger --": {
+    "nl": "-- Selecteer bestaande ontvanger --",
+    "fr": "-- Choisir un bénéficiaire existant --",
+    "en": "-- Select an existing recipient --"
+  },
+  "Naam ontvanger": {
+    "nl": "Naam ontvanger",
+    "fr": "Nom du bénéficiaire",
+    "en": "Recipient name"
+  },
+  "Adres ontvanger": {
+    "nl": "Adres ontvanger",
+    "fr": "Adresse du bénéficiaire",
+    "en": "Recipient address"
+  },
+  "IBAN": {
+    "nl": "IBAN",
+    "fr": "IBAN",
+    "en": "IBAN"
+  },
+  "Bank": {
+    "nl": "Bank",
+    "fr": "Banque",
+    "en": "Bank"
+  },
+  "Geen categorie": {
+    "nl": "Geen categorie",
+    "fr": "Sans catégorie",
+    "en": "Uncategorized"
+  },
+  "Omschrijving / Doel (Markdown ondersteund)": {
+    "nl": "Omschrijving / Doel (Markdown ondersteund)",
+    "fr": "Description / Objet (Markdown accepté)",
+    "en": "Description / Purpose (Markdown supported)"
+  },
+  "Beschrijf het doel van deze kosten met Markdown.": {
+    "nl": "Beschrijf het doel van deze kosten met Markdown.",
+    "fr": "Décrivez l’objet de ces frais avec Markdown.",
+    "en": "Describe the purpose of these expenses using Markdown."
+  },
+  "Markdown voorbeeld": {
+    "nl": "Markdown voorbeeld",
+    "fr": "Aperçu Markdown",
+    "en": "Markdown preview"
+  },
+  "Ondersteunt koppen (#), lijstjes (- of 1.), **vet**, _cursief_ en links.": {
+    "nl": "Ondersteunt koppen (#), lijstjes (- of 1.), **vet**, _cursief_ en links.",
+    "fr": "Titres (#), listes (- ou 1.), **gras**, _italique_ et liens acceptés.",
+    "en": "Supports headings (#), lists (- or 1.), **bold**, _italics_ and links."
+  },
+  "Nog geen inhoud.": {
+    "nl": "Nog geen inhoud.",
+    "fr": "Aucun contenu pour le moment.",
+    "en": "No content yet."
+  },
+  "Regels": {
+    "nl": "Regels",
+    "fr": "Lignes de frais",
+    "en": "Expense lines"
+  },
+  "Hoeveelheid": {
+    "nl": "Hoeveelheid",
+    "fr": "Quantité",
+    "en": "Quantity"
+  },
+  "Aantal": {
+    "nl": "Aantal",
+    "fr": "Quantité",
+    "en": "Quantity"
+  },
+  "Eenheid": {
+    "nl": "Eenheid",
+    "fr": "Unité",
+    "en": "Unit"
+  },
+  "Kies eenheid": {
+    "nl": "Kies eenheid",
+    "fr": "Choisir une unité",
+    "en": "Select a unit"
+  },
+  "Prijs per eenheid": {
+    "nl": "Prijs per eenheid",
+    "fr": "Prix unitaire HT",
+    "en": "Unit price excluding VAT"
+  },
+  "Regel verwijderen": {
+    "nl": "Regel verwijderen",
+    "fr": "Supprimer la ligne",
+    "en": "Remove line"
+  },
+  "+ Regel toevoegen": {
+    "nl": "+ Regel toevoegen",
+    "fr": "+ Ajouter une ligne",
+    "en": "+ Add line"
+  },
+  "Bewaren": {
+    "nl": "Bewaren",
+    "fr": "Enregistrer",
+    "en": "Save"
+  },
+  "Nog geen bijlagen toegevoegd.": {
+    "nl": "Nog geen bijlagen toegevoegd.",
+    "fr": "Aucun justificatif ajouté.",
+    "en": "No attachments yet."
+  },
+  "Geüpload op": {
+    "nl": "Geüpload op",
+    "fr": "Ajouté le",
+    "en": "Uploaded on"
+  },
+  "Bekijken": {
+    "nl": "Bekijken",
+    "fr": "Consulter",
+    "en": "View"
+  },
+  "Bekijk": {
+    "nl": "Bekijk",
+    "fr": "Consulter",
+    "en": "View"
+  },
+  "Verwijderen": {
+    "nl": "Verwijderen",
+    "fr": "Supprimer",
+    "en": "Delete"
+  },
+  "Bestanden uploaden": {
+    "nl": "Bestanden uploaden",
+    "fr": "Ajouter des justificatifs",
+    "en": "Upload attachments"
+  },
+  "Uploaden": {
+    "nl": "Uploaden",
+    "fr": "Importer",
+    "en": "Upload"
+  },
+  "Gebruikersnaam of e-mailadres": {
+    "nl": "Gebruikersnaam of e-mailadres",
+    "fr": "Identifiant ou adresse e-mail",
+    "en": "Username or email address"
+  },
+  "E-mailadres": {
+    "nl": "E-mailadres",
+    "fr": "Adresse e-mail",
+    "en": "Email address"
+  },
+  "Wachtwoord": {
+    "nl": "Wachtwoord",
+    "fr": "Mot de passe",
+    "en": "Password"
+  },
+  "Inloggen": {
+    "nl": "Inloggen",
+    "fr": "Se connecter",
+    "en": "Sign in"
+  },
+  "Inloggen · FlowExpense": {
+    "nl": "Inloggen · FlowExpense",
+    "fr": "Connexion · FlowExpense",
+    "en": "Sign in · FlowExpense"
+  },
+  "Welkom terug": {
+    "nl": "Welkom terug",
+    "fr": "Bienvenue",
+    "en": "Welcome back"
+  },
+  "Log in met je bedrijfsaccount om je onkostennota's te beheren.": {
+    "nl": "Log in met je bedrijfsaccount om je onkostennota's te beheren.",
+    "fr": "Connectez-vous pour gérer vos frais professionnels.",
+    "en": "Sign in to manage your business expenses."
+  },
+  "Organisatiegegevens": {
+    "nl": "Organisatiegegevens",
+    "fr": "Informations de l’organisation",
+    "en": "Organization details"
+  },
+  "Juridische naam": {
+    "nl": "Juridische naam",
+    "fr": "Dénomination légale",
+    "en": "Legal name"
+  },
+  "Adres regel 1": {
+    "nl": "Adres regel 1",
+    "fr": "Adresse — ligne 1",
+    "en": "Address line 1"
+  },
+  "Adres regel 2": {
+    "nl": "Adres regel 2",
+    "fr": "Adresse — ligne 2",
+    "en": "Address line 2"
+  },
+  "Postcode": {
+    "nl": "Postcode",
+    "fr": "Code postal",
+    "en": "Postal code"
+  },
+  "Stad": {
+    "nl": "Stad",
+    "fr": "Ville",
+    "en": "City"
+  },
+  "Land": {
+    "nl": "Land",
+    "fr": "Pays",
+    "en": "Country"
+  },
+  "BTW-nummer": {
+    "nl": "BTW-nummer",
+    "fr": "Numéro de TVA",
+    "en": "VAT number"
+  },
+  "Contact e-mail": {
+    "nl": "Contact e-mail",
+    "fr": "E-mail de contact",
+    "en": "Contact email"
+  },
+  "Telefoon": {
+    "nl": "Telefoon",
+    "fr": "Téléphone",
+    "en": "Phone"
+  },
+  "Nummer prefix": {
+    "nl": "Nummer prefix",
+    "fr": "Préfixe de numérotation",
+    "en": "Number prefix"
+  },
+  "Volgend onkostennummer": {
+    "nl": "Volgend onkostennummer",
+    "fr": "Prochain numéro de note de frais",
+    "en": "Next expense report number"
+  },
+  "Primaire kleur": {
+    "nl": "Primaire kleur",
+    "fr": "Couleur principale",
+    "en": "Primary color"
+  },
+  "Accentkleur": {
+    "nl": "Accentkleur",
+    "fr": "Couleur d’accent",
+    "en": "Accent color"
+  },
+  "Opslaan": {
+    "nl": "Opslaan",
+    "fr": "Enregistrer",
+    "en": "Save"
+  },
+  "Nieuwe gebruiker": {
+    "nl": "Nieuwe gebruiker",
+    "fr": "Nouvel utilisateur",
+    "en": "New user"
+  },
+  "Naam": {
+    "nl": "Naam",
+    "fr": "Nom",
+    "en": "Name"
+  },
+  "Rol": {
+    "nl": "Rol",
+    "fr": "Rôle",
+    "en": "Role"
+  },
+  "Beheerder": {
+    "nl": "Beheerder",
+    "fr": "Administrateur",
+    "en": "Administrator"
+  },
+  "Gebruiker": {
+    "nl": "Gebruiker",
+    "fr": "Utilisateur",
+    "en": "User"
+  },
+  "Gebruiker aanmaken": {
+    "nl": "Gebruiker aanmaken",
+    "fr": "Créer l’utilisateur",
+    "en": "Create user"
+  },
+  "Bestaande gebruikers": {
+    "nl": "Bestaande gebruikers",
+    "fr": "Utilisateurs existants",
+    "en": "Existing users"
+  },
+  "E-mail": {
+    "nl": "E-mail",
+    "fr": "E-mail",
+    "en": "Email"
+  },
+  "Actief": {
+    "nl": "Actief",
+    "fr": "Actif",
+    "en": "Active"
+  },
+  "Inactief": {
+    "nl": "Inactief",
+    "fr": "Inactif",
+    "en": "Inactive"
+  },
+  "Deactiveer": {
+    "nl": "Deactiveer",
+    "fr": "Désactiver",
+    "en": "Deactivate"
+  },
+  "Activeer": {
+    "nl": "Activeer",
+    "fr": "Activer",
+    "en": "Activate"
+  },
+  "Nieuw wachtwoord": {
+    "nl": "Nieuw wachtwoord",
+    "fr": "Nouveau mot de passe",
+    "en": "New password"
+  },
+  "Reset": {
+    "nl": "Reset",
+    "fr": "Réinitialiser",
+    "en": "Reset"
+  },
+  "Maak gebruiker": {
+    "nl": "Maak gebruiker",
+    "fr": "Passer en utilisateur",
+    "en": "Make regular user"
+  },
+  "Maak admin": {
+    "nl": "Maak admin",
+    "fr": "Passer en administrateur",
+    "en": "Make administrator"
+  },
+  "Nieuwe organisatie": {
+    "nl": "Nieuwe organisatie",
+    "fr": "Nouvelle organisation",
+    "en": "New organization"
+  },
+  "Toevoegen": {
+    "nl": "Toevoegen",
+    "fr": "Ajouter",
+    "en": "Add"
+  },
+  "Bestaande organisaties": {
+    "nl": "Bestaande organisaties",
+    "fr": "Organisations existantes",
+    "en": "Existing organizations"
+  },
+  "Prefix": {
+    "nl": "Prefix",
+    "fr": "Préfixe",
+    "en": "Prefix"
+  },
+  "Laatste nummer": {
+    "nl": "Laatste nummer",
+    "fr": "Prochain numéro",
+    "en": "Next number"
+  },
+  "Categorie bijwerken": {
+    "nl": "Categorie bijwerken",
+    "fr": "Modifier la catégorie",
+    "en": "Edit category"
+  },
+  "Nieuwe categorie": {
+    "nl": "Nieuwe categorie",
+    "fr": "Nouvelle catégorie",
+    "en": "New category"
+  },
+  "Bestaande categorieën": {
+    "nl": "Bestaande categorieën",
+    "fr": "Catégories existantes",
+    "en": "Existing categories"
+  },
+  "Er zijn nog geen categorieën aangemaakt.": {
+    "nl": "Er zijn nog geen categorieën aangemaakt.",
+    "fr": "Aucune catégorie créée.",
+    "en": "No categories have been created yet."
+  },
+  "Annuleren": {
+    "nl": "Annuleren",
+    "fr": "Annuler",
+    "en": "Cancel"
+  },
+  "Eenheid bijwerken": {
+    "nl": "Eenheid bijwerken",
+    "fr": "Modifier l’unité",
+    "en": "Edit unit"
+  },
+  "Nieuwe eenheid": {
+    "nl": "Nieuwe eenheid",
+    "fr": "Nouvelle unité",
+    "en": "New unit"
+  },
+  "Beschikbare eenheden": {
+    "nl": "Beschikbare eenheden",
+    "fr": "Unités disponibles",
+    "en": "Available units"
+  },
+  "Er zijn nog geen eenheden gedefinieerd.": {
+    "nl": "Er zijn nog geen eenheden gedefinieerd.",
+    "fr": "Aucune unité définie.",
+    "en": "No units have been defined yet."
+  },
+  "Ontvanger bijwerken": {
+    "nl": "Ontvanger bijwerken",
+    "fr": "Modifier le bénéficiaire",
+    "en": "Edit recipient"
+  },
+  "Nieuwe ontvanger": {
+    "nl": "Nieuwe ontvanger",
+    "fr": "Nouveau bénéficiaire",
+    "en": "New recipient"
+  },
+  "Adres": {
+    "nl": "Adres",
+    "fr": "Adresse",
+    "en": "Address"
+  },
+  "Huidige ontvangers": {
+    "nl": "Huidige ontvangers",
+    "fr": "Bénéficiaires existants",
+    "en": "Existing recipients"
+  },
+  "Er zijn nog geen ontvangers aangemaakt voor deze organisatie.": {
+    "nl": "Er zijn nog geen ontvangers aangemaakt voor deze organisatie.",
+    "fr": "Aucun bénéficiaire créé pour cette organisation.",
+    "en": "No recipients have been created for this organization."
+  },
+  "Bankgegevens": {
+    "nl": "Bankgegevens",
+    "fr": "Coordonnées bancaires",
+    "en": "Bank details"
+  },
+  "Ontvanger: ": {
+    "nl": "Ontvanger: ",
+    "fr": "Bénéficiaire : ",
+    "en": "Recipient: "
+  },
+  "Totaal bedrag aan kosten: €": {
+    "nl": "Totaal bedrag aan kosten: €",
+    "fr": "Montant total des frais : €",
+    "en": "Total expenses: €"
+  },
+  "Geen onkostennota's gevonden voor deze ontvanger.": {
+    "nl": "Geen onkostennota's gevonden voor deze ontvanger.",
+    "fr": "Aucune note de frais pour ce bénéficiaire.",
+    "en": "No expense reports found for this recipient."
+  },
+  "Openen": {
+    "nl": "Openen",
+    "fr": "Ouvrir",
+    "en": "Open"
+  },
+  "Dupliceren": {
+    "nl": "Dupliceren",
+    "fr": "Dupliquer",
+    "en": "Duplicate"
+  },
+  "Overzicht onkostennota's": {
+    "nl": "Overzicht onkostennota's",
+    "fr": "Récapitulatif des notes de frais",
+    "en": "Expense report summary"
+  },
+  "Ontvanger:": {
+    "nl": "Ontvanger:",
+    "fr": "Bénéficiaire :",
+    "en": "Recipient:"
+  },
+  "Adres:": {
+    "nl": "Adres:",
+    "fr": "Adresse :",
+    "en": "Address:"
+  },
+  "Bank:": {
+    "nl": "Bank:",
+    "fr": "Banque :",
+    "en": "Bank:"
+  },
+  "Bedrag": {
+    "nl": "Bedrag",
+    "fr": "Montant TTC",
+    "en": "Amount including VAT"
+  },
+  "Totaalbedrag: €": {
+    "nl": "Totaalbedrag: €",
+    "fr": "Montant total : €",
+    "en": "Total amount: €"
+  },
+  "Onkostennota overzicht – ": {
+    "nl": "Onkostennota overzicht – ",
+    "fr": "Récapitulatif des notes de frais – ",
+    "en": "Expense report summary – "
+  },
+  "Subtotaal": {
+    "nl": "Subtotaal",
+    "fr": "Sous-total HT",
+    "en": "Subtotal excluding VAT"
+  },
+  "Opgesteld op": {
+    "nl": "Opgesteld op",
+    "fr": "Établie le",
+    "en": "Issued on"
+  },
+  "Betaal aan": {
+    "nl": "Betaal aan",
+    "fr": "Bénéficiaire du remboursement",
+    "en": "Reimbursement recipient"
+  },
+  "Referenties": {
+    "nl": "Referenties",
+    "fr": "Références",
+    "en": "References"
+  },
+  "BTW:": {
+    "nl": "BTW:",
+    "fr": "TVA :",
+    "en": "VAT:"
+  },
+  "Details": {
+    "fr": "Détails",
+    "en": "Details",
+    "nl": "Details"
+  },
+  "Omschrijving &amp; Doel": {
+    "nl": "Omschrijving &amp; Doel",
+    "fr": "Description et objet",
+    "en": "Description and purpose"
+  },
+  "Betalingsinformatie": {
+    "nl": "Betalingsinformatie",
+    "fr": "Informations de remboursement",
+    "en": "Reimbursement details"
+  },
+  "Gelieve het totaalbedrag van €": {
+    "nl": "Gelieve het totaalbedrag van €",
+    "fr": "Veuillez verser le montant total de €",
+    "en": "Please transfer the total amount of €"
+  },
+  "over te maken naar": {
+    "nl": "over te maken naar",
+    "fr": "sur le compte",
+    "en": "to account"
+  },
+  " ten name van ": {
+    "nl": " ten name van ",
+    "fr": " au nom de ",
+    "en": " in the name of "
+  },
+  "Vermeld referentie": {
+    "nl": "Vermeld referentie",
+    "fr": "Indiquez la référence",
+    "en": "Use reference"
+  },
+  "bij de betaling.": {
+    "nl": "bij de betaling.",
+    "fr": "lors du paiement.",
+    "en": "when making the payment."
+  },
+  "Goedgekeurd door": {
+    "nl": "Goedgekeurd door",
+    "fr": "Organisation émettrice :",
+    "en": "Issuing organization:"
+  },
+  "Contact:": {
+    "nl": "Contact:",
+    "fr": "Contact :",
+    "en": "Contact:"
+  },
+  "Authentication required.": {
+    "nl": "Authentication required.",
+    "fr": "Connexion requise.",
+    "en": "Authentication required."
+  },
+  "Admin privileges required.": {
+    "nl": "Admin privileges required.",
+    "fr": "Droits administrateur requis.",
+    "en": "Administrator privileges required."
+  },
+  "No organization selected.": {
+    "nl": "No organization selected.",
+    "fr": "Aucune organisation sélectionnée.",
+    "en": "No organization selected."
+  },
+  "Method not allowed": {
+    "nl": "Method not allowed",
+    "fr": "Méthode non autorisée.",
+    "en": "Method not allowed."
+  },
+  "Method Not Allowed": {
+    "nl": "Method Not Allowed",
+    "fr": "Méthode non autorisée.",
+    "en": "Method not allowed."
+  },
+  "Invalid payload": {
+    "nl": "Invalid payload",
+    "fr": "Données invalides.",
+    "en": "Invalid request data."
+  },
+  "Ongeldige selectie.": {
+    "nl": "Ongeldige selectie.",
+    "fr": "Sélection invalide.",
+    "en": "Invalid selection."
+  },
+  "Geen geldige onkostennota IDs.": {
+    "nl": "Geen geldige onkostennota IDs.",
+    "fr": "Aucune note de frais valide sélectionnée.",
+    "en": "No valid expense reports selected."
+  },
+  "Kon ZIP-bestand niet openen.": {
+    "nl": "Kon ZIP-bestand niet openen.",
+    "fr": "Impossible de créer l’archive ZIP.",
+    "en": "Could not create the ZIP archive."
+  },
+  "Naam is verplicht.": {
+    "nl": "Naam is verplicht.",
+    "fr": "Le nom est obligatoire.",
+    "en": "Name is required."
+  },
+  "Ongeldig ID.": {
+    "nl": "Ongeldig ID.",
+    "fr": "Identifiant invalide.",
+    "en": "Invalid ID."
+  },
+  "Bijlage niet gevonden.": {
+    "nl": "Bijlage niet gevonden.",
+    "fr": "Justificatif introuvable.",
+    "en": "Attachment not found."
+  },
+  "Geen toestemming om deze bijlage te verwijderen.": {
+    "nl": "Geen toestemming om deze bijlage te verwijderen.",
+    "fr": "Vous ne pouvez pas supprimer ce justificatif.",
+    "en": "You do not have permission to delete this attachment."
+  },
+  "Onkostennota niet gevonden.": {
+    "nl": "Onkostennota niet gevonden.",
+    "fr": "Note de frais introuvable.",
+    "en": "Expense report not found."
+  },
+  "Geen toegang tot deze onkostennota.": {
+    "nl": "Geen toegang tot deze onkostennota.",
+    "fr": "Vous n’avez pas accès à cette note de frais.",
+    "en": "You do not have access to this expense report."
+  },
+  "Verwijderen mislukt: ": {
+    "nl": "Verwijderen mislukt: ",
+    "fr": "Échec de la suppression : ",
+    "en": "Deletion failed: "
+  },
+  "Dupliceren mislukt: ": {
+    "nl": "Dupliceren mislukt: ",
+    "fr": "Échec de la duplication : ",
+    "en": "Duplication failed: "
+  },
+  "Bestand niet gevonden.": {
+    "nl": "Bestand niet gevonden.",
+    "fr": "Fichier introuvable.",
+    "en": "File not found."
+  },
+  "Geen toegang tot dit bestand.": {
+    "nl": "Geen toegang tot dit bestand.",
+    "fr": "Vous n’avez pas accès à ce fichier.",
+    "en": "You do not have access to this file."
+  },
+  "Bestand ontbreekt.": {
+    "nl": "Bestand ontbreekt.",
+    "fr": "Le fichier est absent.",
+    "en": "The file is missing."
+  },
+  "Ongeldige gebruikersnaam of wachtwoord.": {
+    "nl": "Ongeldige gebruikersnaam of wachtwoord.",
+    "fr": "Identifiant ou mot de passe incorrect.",
+    "en": "Incorrect username or password."
+  },
+  "Ongeldige organisatie.": {
+    "nl": "Ongeldige organisatie.",
+    "fr": "Organisation invalide.",
+    "en": "Invalid organization."
+  },
+  "Ontvanger niet gevonden.": {
+    "nl": "Ontvanger niet gevonden.",
+    "fr": "Bénéficiaire introuvable.",
+    "en": "Recipient not found."
+  },
+  "Alle velden zijn verplicht.": {
+    "nl": "Alle velden zijn verplicht.",
+    "fr": "Tous les champs sont obligatoires.",
+    "en": "All fields are required."
+  },
+  "Verplichte velden ontbreken.": {
+    "nl": "Verplichte velden ontbreken.",
+    "fr": "Veuillez remplir les champs obligatoires.",
+    "en": "Please fill in the required fields."
+  },
+  "Ongeldige datum opgegeven.": {
+    "nl": "Ongeldige datum opgegeven.",
+    "fr": "Date invalide.",
+    "en": "Invalid date."
+  },
+  "Geen toestemming om deze onkostennota te bewerken.": {
+    "nl": "Geen toestemming om deze onkostennota te bewerken.",
+    "fr": "Vous ne pouvez pas modifier cette note de frais.",
+    "en": "You do not have permission to edit this expense report."
+  },
+  "Elke regel heeft een omschrijving nodig.": {
+    "nl": "Elke regel heeft een omschrijving nodig.",
+    "fr": "Chaque ligne doit avoir une description.",
+    "en": "Every line needs a description."
+  },
+  "Voeg minstens één regel toe.": {
+    "nl": "Voeg minstens één regel toe.",
+    "fr": "Ajoutez au moins une ligne de frais.",
+    "en": "Add at least one expense line."
+  },
+  "Opslaan mislukt: ": {
+    "nl": "Opslaan mislukt: ",
+    "fr": "Échec de l’enregistrement : ",
+    "en": "Save failed: "
+  },
+  "Instellingen opgeslagen.": {
+    "nl": "Instellingen opgeslagen.",
+    "fr": "Paramètres enregistrés.",
+    "en": "Settings saved."
+  },
+  "Ongeldige status.": {
+    "nl": "Ongeldige status.",
+    "fr": "Statut invalide.",
+    "en": "Invalid status."
+  },
+  "Geen toestemming om de status te wijzigen.": {
+    "nl": "Geen toestemming om de status te wijzigen.",
+    "fr": "Vous ne pouvez pas modifier le statut.",
+    "en": "You do not have permission to change the status."
+  },
+  "Ongeldig rapport.": {
+    "nl": "Ongeldig rapport.",
+    "fr": "Note de frais invalide.",
+    "en": "Invalid expense report."
+  },
+  "Geen toestemming om bijlagen toe te voegen.": {
+    "nl": "Geen toestemming om bijlagen toe te voegen.",
+    "fr": "Vous ne pouvez pas ajouter de justificatifs.",
+    "en": "You do not have permission to add attachments."
+  },
+  "Ongeldige gebruiker.": {
+    "nl": "Ongeldige gebruiker.",
+    "fr": "Utilisateur invalide.",
+    "en": "Invalid user."
+  },
+  "Kan eigen adminstatus niet wijzigen.": {
+    "nl": "Kan eigen adminstatus niet wijzigen.",
+    "fr": "Vous ne pouvez pas modifier votre propre rôle administrateur.",
+    "en": "You cannot change your own administrator role."
+  },
+  "Wachtwoord mag niet leeg zijn.": {
+    "nl": "Wachtwoord mag niet leeg zijn.",
+    "fr": "Le mot de passe ne peut pas être vide.",
+    "en": "Password cannot be empty."
+  },
+  "Organisatie-instellingen niet gevonden.": {
+    "nl": "Organisatie-instellingen niet gevonden.",
+    "fr": "Paramètres de l’organisation introuvables.",
+    "en": "Organization settings not found."
+  },
+  "Dit onkostennota-nummer is al in gebruik.": {
+    "nl": "Dit onkostennota-nummer is al in gebruik.",
+    "fr": "Ce numéro de note de frais est déjà utilisé.",
+    "en": "This expense report number is already in use."
+  },
+  "Bijlage verwijderen?": {
+    "fr": "Déplacer ce justificatif dans la corbeille ?",
+    "en": "Move this attachment to the trash?",
+    "nl": "Dit bewijsstuk naar de prullenbak verplaatsen?"
+  },
+  "Wachtwoord resetten?": {
+    "nl": "Wachtwoord resetten?",
+    "fr": "Réinitialiser le mot de passe ?",
+    "en": "Reset the password?"
+  },
+  "Ontvanger verwijderen?": {
+    "nl": "Ontvanger verwijderen?",
+    "fr": "Supprimer ce bénéficiaire ?",
+    "en": "Delete this recipient?"
+  },
+  "Categorie verwijderen?": {
+    "nl": "Categorie verwijderen?",
+    "fr": "Supprimer cette catégorie ?",
+    "en": "Delete this category?"
+  },
+  "Eenheid verwijderen?": {
+    "nl": "Eenheid verwijderen?",
+    "fr": "Supprimer cette unité ?",
+    "en": "Delete this unit?"
+  },
+  "Verwijderen?": {
+    "nl": "Verwijderen?",
+    "fr": "Supprimer ?",
+    "en": "Delete?"
+  },
+  " geselecteerd": {
+    "nl": " geselecteerd",
+    "fr": " sélectionné(s)",
+    "en": " selected"
+  },
+  "Export mislukt: ": {
+    "nl": "Export mislukt: ",
+    "fr": "Échec de l’export : ",
+    "en": "Export failed: "
+  },
+  "Status bijwerken mislukt: ": {
+    "nl": "Status bijwerken mislukt: ",
+    "fr": "Échec de la mise à jour du statut : ",
+    "en": "Status update failed: "
+  },
+  "Weet je zeker dat je deze onkostennota's wil verwijderen? Dit kan niet ongedaan gemaakt worden.": {
+    "fr": "Déplacer ces notes de frais dans la corbeille ? Vous pourrez les restaurer.",
+    "en": "Move these expense reports to the trash? You can restore them later.",
+    "nl": "Deze onkostennota’s naar de prullenbak verplaatsen? U kunt ze later herstellen."
+  },
+  "Kon ontvanger niet laden": {
+    "nl": "Kon ontvanger niet laden",
+    "fr": "Impossible de charger le bénéficiaire",
+    "en": "Could not load the recipient"
+  },
+  "Language": {
+    "nl": "Taal",
+    "fr": "Langue",
+    "en": "Language"
+  },
+  "Usage mode": {
+    "nl": "Gebruiksmodus",
+    "fr": "Mode d’utilisation",
+    "en": "Usage mode"
+  },
+  "Solo": {
+    "nl": "Solo",
+    "fr": "Solo",
+    "en": "Solo"
+  },
+  "Team": {
+    "nl": "Team",
+    "fr": "Équipe",
+    "en": "Team"
+  },
+  "Solo mode simplifies new business expenses. Existing reports stay editable.": {
+    "nl": "Solomodus vereenvoudigt nieuwe zakelijke uitgaven. Bestaande nota’s blijven bewerkbaar.",
+    "fr": "Le mode solo simplifie la saisie des dépenses professionnelles. Les notes existantes restent modifiables.",
+    "en": "Solo mode simplifies new business expenses. Existing reports stay editable."
+  },
+  "Expense type": {
+    "nl": "Soort uitgave",
+    "fr": "Type de dépense",
+    "en": "Expense type"
+  },
+  "Business expense": {
+    "nl": "Zakelijke uitgave",
+    "fr": "Dépense professionnelle",
+    "en": "Business expense"
+  },
+  "Reimbursement": {
+    "nl": "Onkostenvergoeding",
+    "fr": "Remboursement de frais",
+    "en": "Reimbursement"
+  },
+  "Supplier": {
+    "nl": "Leverancier",
+    "fr": "Fournisseur",
+    "en": "Supplier"
+  },
+  "Supplier or recipient": {
+    "nl": "Leverancier of ontvanger",
+    "fr": "Fournisseur ou bénéficiaire",
+    "en": "Supplier or recipient"
+  },
+  "Amount excluding VAT": {
+    "nl": "Bedrag exclusief btw",
+    "fr": "Montant HT",
+    "en": "Amount excluding VAT"
+  },
+  "VAT rate (%)": {
+    "nl": "Btw-tarief (%)",
+    "fr": "Taux de TVA (%)",
+    "en": "VAT rate (%)"
+  },
+  "VAT amount": {
+    "nl": "Btw-bedrag",
+    "fr": "Montant de TVA",
+    "en": "VAT amount"
+  },
+  "Amount including VAT": {
+    "nl": "Bedrag inclusief btw",
+    "fr": "Montant TTC",
+    "en": "Amount including VAT"
+  },
+  "VAT rates are entered manually; old reports retain their amounts with no recorded VAT.": {
+    "nl": "Voer btw-tarieven handmatig in; bestaande nota’s behouden hun bedragen zonder geregistreerde btw.",
+    "fr": "Les taux sont saisis manuellement ; les anciennes notes conservent leurs montants sans TVA renseignée.",
+    "en": "VAT rates are entered manually; old reports retain their amounts with no recorded VAT."
+  },
+  "Quick entry": {
+    "nl": "Snelle invoer",
+    "fr": "Saisie rapide",
+    "en": "Quick entry"
+  },
+  "Detailed lines": {
+    "nl": "Gedetailleerde regels",
+    "fr": "Lignes détaillées",
+    "en": "Detailed lines"
+  },
+  "Save first to attach receipts.": {
+    "nl": "Sla eerst op om bewijsstukken toe te voegen.",
+    "fr": "Enregistrez la dépense pour ajouter ses justificatifs.",
+    "en": "Save first to attach receipts."
+  },
+  "Accounting export": {
+    "nl": "Boekhoudexport",
+    "fr": "Export comptable",
+    "en": "Accounting export"
+  },
+  "Download CSV and receipts (ZIP)": {
+    "nl": "CSV en bewijsstukken downloaden (ZIP)",
+    "fr": "Télécharger le CSV et les justificatifs (ZIP)",
+    "en": "Download CSV and receipts (ZIP)"
+  },
+  "All expense types": {
+    "nl": "Alle soorten uitgaven",
+    "fr": "Tous les types de dépenses",
+    "en": "All expense types"
+  },
+  "Totals include VAT.": {
+    "nl": "Totalen zijn inclusief btw.",
+    "fr": "Les totaux sont TTC.",
+    "en": "Totals include VAT."
+  },
+  "Invalid amount.": {
+    "nl": "Ongeldig bedrag.",
+    "fr": "Montant invalide.",
+    "en": "Invalid amount."
+  },
+  "Amounts must be positive and VAT rates between 0 and 100.": {
+    "nl": "Bedragen moeten positief zijn en btw-tarieven tussen 0 en 100 liggen.",
+    "fr": "Les montants doivent être positifs et les taux de TVA compris entre 0 et 100.",
+    "en": "Amounts must be positive and VAT rates between 0 and 100."
+  },
+  "Select a valid category.": {
+    "nl": "Kies een geldige categorie.",
+    "fr": "Choisissez une catégorie valide.",
+    "en": "Select a valid category."
+  },
+  "Enter a supplier.": {
+    "nl": "Voer een leverancier in.",
+    "fr": "Indiquez un fournisseur.",
+    "en": "Enter a supplier."
+  },
+  "Invalid expense type.": {
+    "nl": "Ongeldig soort uitgave.",
+    "fr": "Type de dépense invalide.",
+    "en": "Invalid expense type."
+  },
+  "Receipt files missing. No archive was generated.": {
+    "nl": "Bewijsstukken ontbreken. Er is geen archief gemaakt.",
+    "fr": "Des justificatifs sont absents. Aucune archive n’a été générée.",
+    "en": "Receipt files missing. No archive was generated."
+  },
+  "Reference": {
+    "nl": "Referentie",
+    "fr": "Référence",
+    "en": "Reference"
+  },
+  "Owner": {
+    "nl": "Gebruiker",
+    "fr": "Utilisateur",
+    "en": "Owner"
+  },
+  "Receipt paths": {
+    "nl": "Paden van bewijsstukken",
+    "fr": "Chemins des justificatifs",
+    "en": "Receipt paths"
+  },
+  "Line description": {
+    "nl": "Regelomschrijving",
+    "fr": "Description de la ligne",
+    "en": "Line description"
+  },
+  "Invalid date range.": {
+    "nl": "Ongeldige periode.",
+    "fr": "Période invalide.",
+    "en": "Invalid date range."
+  },
+  "From": {
+    "nl": "Van",
+    "fr": "Du",
+    "en": "From"
+  },
+  "To": {
+    "nl": "Tot",
+    "fr": "Au",
+    "en": "To"
+  },
+  "No expenses to export.": {
+    "nl": "Geen uitgaven om te exporteren.",
+    "fr": "Aucune dépense à exporter.",
+    "en": "No expenses to export."
+  },
+  "Sign in": {
+    "nl": "Inloggen",
+    "fr": "Se connecter",
+    "en": "Sign in"
+  },
+  "Save": {
+    "nl": "Opslaan",
+    "fr": "Enregistrer",
+    "en": "Save"
+  },
+  "Description": {
+    "nl": "Omschrijving",
+    "fr": "Description",
+    "en": "Description"
+  },
+  "Date": {
+    "nl": "Datum",
+    "fr": "Date",
+    "en": "Date"
+  },
+  "Category": {
+    "nl": "Categorie",
+    "fr": "Catégorie",
+    "en": "Category"
+  },
+  "None": {
+    "nl": "Geen",
+    "fr": "Aucune",
+    "en": "None"
+  },
+  "Recipient": {
+    "nl": "Ontvanger",
+    "fr": "Bénéficiaire",
+    "en": "Recipient"
+  },
+  "Address": {
+    "nl": "Adres",
+    "fr": "Adresse",
+    "en": "Address"
+  },
+  "Quantity": {
+    "nl": "Hoeveelheid",
+    "fr": "Quantité",
+    "en": "Quantity"
+  },
+  "Unit": {
+    "nl": "Eenheid",
+    "fr": "Unité",
+    "en": "Unit"
+  },
+  "Unit price excluding VAT": {
+    "nl": "Prijs per eenheid exclusief btw",
+    "fr": "Prix unitaire HT",
+    "en": "Unit price excluding VAT"
+  },
+  "Add line": {
+    "nl": "Regel toevoegen",
+    "fr": "Ajouter une ligne",
+    "en": "Add line"
+  },
+  "Remove line": {
+    "nl": "Regel verwijderen",
+    "fr": "Supprimer la ligne",
+    "en": "Remove line"
+  },
+  "New expense": {
+    "nl": "Nieuwe uitgave",
+    "fr": "Nouvelle dépense",
+    "en": "New expense"
+  },
+  "Edit expense": {
+    "nl": "Uitgave bewerken",
+    "fr": "Modifier la dépense",
+    "en": "Edit expense"
+  },
+  "Notes": {
+    "nl": "Notities",
+    "fr": "Notes",
+    "en": "Notes"
+  },
+  "Attachments": {
+    "nl": "Bijlagen",
+    "fr": "Justificatifs",
+    "en": "Attachments"
+  },
+  "View": {
+    "nl": "Bekijken",
+    "fr": "Consulter",
+    "en": "View"
+  },
+  "Delete": {
+    "nl": "Verwijderen",
+    "fr": "Supprimer",
+    "en": "Delete"
+  },
+  "Upload": {
+    "nl": "Uploaden",
+    "fr": "Importer",
+    "en": "Upload"
+  },
+  "No attachments yet.": {
+    "nl": "Nog geen bijlagen.",
+    "fr": "Aucun justificatif ajouté.",
+    "en": "No attachments yet."
+  },
+  "Invalid file type or size (maximum 20 MB).": {
+    "nl": "Ongeldig bestandstype of grootte (maximaal 20 MB).",
+    "fr": "Type de fichier ou taille invalide (maximum 20 Mo).",
+    "en": "Invalid file type or size (maximum 20 MB)."
+  },
+  "Attachments uploaded.": {
+    "nl": "Bijlagen toegevoegd.",
+    "fr": "Justificatifs ajoutés.",
+    "en": "Attachments uploaded."
+  },
+  "Upload failed.": {
+    "nl": "Uploaden mislukt.",
+    "fr": "Échec de l’import.",
+    "en": "Upload failed."
+  },
+  "Duplicate": {
+    "nl": "Dupliceren",
+    "fr": "Dupliquer",
+    "en": "Duplicate"
+  },
+  "Attachment count": {
+    "nl": "Aantal bijlagen",
+    "fr": "Nombre de justificatifs",
+    "en": "Attachment count"
+  },
+  "ten name van": {
+    "fr": "au nom de",
+    "en": "in the name of",
+    "nl": "ten name van"
+  },
+  "Export": {
+    "fr": "Exporter",
+    "en": "Export",
+    "nl": "Exporteren"
+  },
+  "Categorie verwijderen? Gekoppelde onkostennota's verliezen hun categorie.": {
+    "fr": "Supprimer cette catégorie ? Les notes associées n’auront plus de catégorie.",
+    "en": "Delete this category? Linked expense reports will become uncategorized.",
+    "nl": "Categorie verwijderen? Gekoppelde onkostennota's verliezen hun categorie."
+  },
+  "Trash": {
+    "fr": "Corbeille",
+    "en": "Trash",
+    "nl": "Prullenbak"
+  },
+  "History": {
+    "fr": "Historique",
+    "en": "History",
+    "nl": "Geschiedenis"
+  },
+  "Backups": {
+    "fr": "Sauvegardes",
+    "en": "Backups",
+    "nl": "Back-ups"
+  },
+  "Restore": {
+    "fr": "Restaurer",
+    "en": "Restore",
+    "nl": "Herstellen"
+  },
+  "Deleted on": {
+    "fr": "Supprimée le",
+    "en": "Deleted on",
+    "nl": "Verwijderd op"
+  },
+  "The trash is empty.": {
+    "fr": "La corbeille est vide.",
+    "en": "The trash is empty.",
+    "nl": "De prullenbak is leeg."
+  },
+  "Deleted expenses and receipts are kept here until you restore them.": {
+    "fr": "Les dépenses et justificatifs supprimés sont conservés ici et peuvent être restaurés.",
+    "en": "Deleted expenses and receipts are kept here until you restore them.",
+    "nl": "Verwijderde uitgaven en bewijsstukken blijven hier bewaard en kunnen worden hersteld."
+  },
+  "History starts when this feature is installed. Earlier changes are not reconstructed.": {
+    "fr": "L’historique commence à l’installation de cette fonction. Les modifications antérieures ne sont pas reconstituées.",
+    "en": "History starts when this feature is installed. Earlier changes are not reconstructed.",
+    "nl": "De geschiedenis begint bij installatie van deze functie. Eerdere wijzigingen worden niet gereconstrueerd."
+  },
+  "No changes recorded yet.": {
+    "fr": "Aucune modification enregistrée pour le moment.",
+    "en": "No changes recorded yet.",
+    "nl": "Nog geen wijzigingen geregistreerd."
+  },
+  "Action": {
+    "fr": "Action",
+    "en": "Action",
+    "nl": "Actie"
+  },
+  "Older changes": {
+    "fr": "Modifications précédentes",
+    "en": "Older changes",
+    "nl": "Eerdere wijzigingen"
+  },
+  "Expense created": {
+    "fr": "Dépense créée",
+    "en": "Expense created",
+    "nl": "Uitgave aangemaakt"
+  },
+  "Expense updated": {
+    "fr": "Dépense modifiée",
+    "en": "Expense updated",
+    "nl": "Uitgave gewijzigd"
+  },
+  "Moved to trash": {
+    "fr": "Déplacée dans la corbeille",
+    "en": "Moved to trash",
+    "nl": "Naar prullenbak verplaatst"
+  },
+  "Expense restored": {
+    "fr": "Dépense restaurée",
+    "en": "Expense restored",
+    "nl": "Uitgave hersteld"
+  },
+  "Expense duplicated": {
+    "fr": "Dépense dupliquée",
+    "en": "Expense duplicated",
+    "nl": "Uitgave gedupliceerd"
+  },
+  "Status changed": {
+    "fr": "Statut modifié",
+    "en": "Status changed",
+    "nl": "Status gewijzigd"
+  },
+  "Receipt added": {
+    "fr": "Justificatif ajouté",
+    "en": "Receipt added",
+    "nl": "Bewijsstuk toegevoegd"
+  },
+  "Receipt moved to trash": {
+    "fr": "Justificatif déplacé dans la corbeille",
+    "en": "Receipt moved to trash",
+    "nl": "Bewijsstuk naar prullenbak verplaatst"
+  },
+  "Receipt restored": {
+    "fr": "Justificatif restauré",
+    "en": "Receipt restored",
+    "nl": "Bewijsstuk hersteld"
+  },
+  "Category deleted": {
+    "fr": "Catégorie supprimée",
+    "en": "Category deleted",
+    "nl": "Categorie verwijderd"
+  },
+  "Recipient deleted": {
+    "fr": "Bénéficiaire supprimé",
+    "en": "Recipient deleted",
+    "nl": "Ontvanger verwijderd"
+  },
+  "Settings updated": {
+    "fr": "Paramètres modifiés",
+    "en": "Settings updated",
+    "nl": "Instellingen gewijzigd"
+  },
+  "User updated": {
+    "fr": "Utilisateur modifié",
+    "en": "User updated",
+    "nl": "Gebruiker gewijzigd"
+  },
+  "User created": {
+    "fr": "Utilisateur créé",
+    "en": "User created",
+    "nl": "Gebruiker aangemaakt"
+  },
+  "Backup created": {
+    "fr": "Sauvegarde créée",
+    "en": "Backup created",
+    "nl": "Back-up gemaakt"
+  },
+  "Backup restored": {
+    "fr": "Sauvegarde restaurée",
+    "en": "Backup restored",
+    "nl": "Back-up hersteld"
+  },
+  "Backup failed.": {
+    "fr": "Échec de la sauvegarde.",
+    "en": "Backup failed.",
+    "nl": "Back-up mislukt."
+  },
+  "Invalid backup.": {
+    "fr": "Sauvegarde invalide.",
+    "en": "Invalid backup.",
+    "nl": "Ongeldige back-up."
+  },
+  "Backup": {
+    "fr": "Sauvegarde",
+    "en": "Backup",
+    "nl": "Back-up"
+  },
+  "Restore a backup": {
+    "fr": "Restaurer une sauvegarde",
+    "en": "Restore a backup",
+    "nl": "Een back-up herstellen"
+  },
+  "Create backup now": {
+    "fr": "Sauvegarder maintenant",
+    "en": "Create backup now",
+    "nl": "Nu een back-up maken"
+  },
+  "Current password": {
+    "fr": "Mot de passe actuel",
+    "en": "Current password",
+    "nl": "Huidig wachtwoord"
+  },
+  "Download": {
+    "fr": "Télécharger",
+    "en": "Download",
+    "nl": "Downloaden"
+  },
+  "Size": {
+    "fr": "Taille",
+    "en": "Size",
+    "nl": "Grootte"
+  },
+  "No backups yet.": {
+    "fr": "Aucune sauvegarde disponible.",
+    "en": "No backups yet.",
+    "nl": "Nog geen back-ups."
+  },
+  "Type RESTORE to confirm.": {
+    "fr": "Saisissez RESTORE pour confirmer.",
+    "en": "Type RESTORE to confirm.",
+    "nl": "Typ RESTORE om te bevestigen."
+  },
+  "Restoration replaces all current data. A safety backup is made first. All users will be signed out.": {
+    "fr": "La restauration remplace toutes les données actuelles. Une sauvegarde de sécurité est créée au préalable. Tous les utilisateurs seront déconnectés.",
+    "en": "Restoration replaces all current data. A safety backup is made first. All users will be signed out.",
+    "nl": "Herstel vervangt alle huidige gegevens. Eerst wordt een veiligheidskopie gemaakt. Alle gebruikers worden afgemeld."
+  },
+  "Backups contain all organizations, accounts and receipts. Keep downloaded archives private.": {
+    "fr": "Les sauvegardes contiennent toutes les organisations, tous les comptes et justificatifs. Gardez les archives téléchargées privées.",
+    "en": "Backups contain all organizations, accounts and receipts. Keep downloaded archives private.",
+    "nl": "Back-ups bevatten alle organisaties, accounts en bewijsstukken. Houd gedownloade archieven privé."
+  },
+  "A daily backup is created on the first authenticated visit. The latest 14 daily archives are retained. Manual backups are kept.": {
+    "fr": "Une sauvegarde quotidienne est créée à la première visite connectée. Les 14 dernières archives quotidiennes sont conservées, ainsi que toutes les sauvegardes manuelles.",
+    "en": "A daily backup is created on the first authenticated visit. The latest 14 daily archives are retained. Manual backups are kept.",
+    "nl": "Bij het eerste aangemelde bezoek wordt een dagelijkse back-up gemaakt. De laatste 14 dagelijkse archieven en alle handmatige back-ups blijven bewaard."
+  },
+  "Automatic backup failed. Check the Backups page.": {
+    "fr": "La sauvegarde automatique a échoué. Consultez la page Sauvegardes.",
+    "en": "Automatic backup failed. Check the Backups page.",
+    "nl": "De automatische back-up is mislukt. Controleer de pagina Back-ups."
+  },
+  "Your session has changed. Reload the page and try again.": {
+    "fr": "Votre session a changé. Rechargez la page et réessayez.",
+    "en": "Your session has changed. Reload the page and try again.",
+    "nl": "Uw sessie is gewijzigd. Vernieuw de pagina en probeer opnieuw."
+  },
+  "Too many sign-in attempts. Try again in 15 minutes.": {
+    "fr": "Trop de tentatives de connexion. Réessayez dans 15 minutes.",
+    "en": "Too many sign-in attempts. Try again in 15 minutes.",
+    "nl": "Te veel aanmeldpogingen. Probeer het over 15 minuten opnieuw."
+  },
+  "Configure an administrator email and a password of at least 12 characters before first use.": {
+    "fr": "Configurez un e-mail administrateur et un mot de passe d’au moins 12 caractères avant la première utilisation.",
+    "en": "Configure an administrator email and a password of at least 12 characters before first use.",
+    "nl": "Stel vóór het eerste gebruik een beheerdersmailadres en een wachtwoord van minstens 12 tekens in."
+  },
+  "Use a password of at least 12 characters.": {
+    "fr": "Utilisez un mot de passe d’au moins 12 caractères.",
+    "en": "Use a password of at least 12 characters.",
+    "nl": "Gebruik een wachtwoord van minstens 12 tekens."
+  },
+  "You cannot disable your own account.": {
+    "fr": "Vous ne pouvez pas désactiver votre propre compte.",
+    "en": "You cannot disable your own account.",
+    "nl": "U kunt uw eigen account niet uitschakelen."
+  },
+  "Keep access to your current organization.": {
+    "fr": "Conservez l’accès à votre organisation actuelle.",
+    "en": "Keep access to your current organization.",
+    "nl": "Behoud toegang tot uw huidige organisatie."
+  },
+  "Search": {
+    "fr": "Recherche",
+    "en": "Search",
+    "nl": "Zoeken"
+  },
+  "Search expenses": {
+    "fr": "Rechercher une dépense",
+    "en": "Search expenses",
+    "nl": "Uitgaven zoeken"
+  },
+  "Month": {
+    "fr": "Mois",
+    "en": "Month",
+    "nl": "Maand"
+  },
+  "Monthly overview": {
+    "fr": "Bilan mensuel",
+    "en": "Monthly overview",
+    "nl": "Maandoverzicht"
+  },
+  "By category": {
+    "fr": "Par catégorie",
+    "en": "By category",
+    "nl": "Per categorie"
+  },
+  "By supplier or recipient": {
+    "fr": "Par fournisseur ou bénéficiaire",
+    "en": "By supplier or recipient",
+    "nl": "Per leverancier of ontvanger"
+  },
+  "No expenses this month.": {
+    "fr": "Aucune dépense ce mois-ci.",
+    "en": "No expenses this month.",
+    "nl": "Geen uitgaven deze maand."
+  },
+  "Count": {
+    "fr": "Nombre",
+    "en": "Count",
+    "nl": "Aantal"
+  },
+  "Bijwerken": {
+    "fr": "Mettre à jour",
+    "en": "Update",
+    "nl": "Bijwerken"
+  },
+  "Try as a guest": {
+    "en": "Try as a guest",
+    "fr": "Essayer en invité",
+    "nl": "Proberen als gast"
+  },
+  "Try the real application": {
+    "en": "Try the real application",
+    "fr": "Découvrez la véritable application",
+    "nl": "Ontdek de echte applicatie"
+  },
+  "Explore expenses, receipts and exports in your own temporary guest workspace. No account or password needed.": {
+    "en": "Explore expenses, receipts and exports in your own temporary guest workspace. No account or password needed.",
+    "fr": "Explorez les dépenses, justificatifs et exports dans votre espace invité temporaire. Aucun compte ni mot de passe nécessaire.",
+    "nl": "Ontdek uitgaven, bewijsstukken en exports in uw eigen tijdelijke gastomgeving. Geen account of wachtwoord nodig."
+  },
+  "Fictional data only. Do not upload personal or confidential documents. This workspace expires after 24 hours.": {
+    "en": "Fictional data only. Do not upload personal or confidential documents. This workspace expires after 24 hours.",
+    "fr": "Données fictives uniquement. Ne déposez aucun document personnel ou confidentiel. Cet espace expire après 24 heures.",
+    "nl": "Alleen fictieve gegevens. Upload geen persoonlijke of vertrouwelijke documenten. Deze omgeving verloopt na 24 uur."
+  },
+  "Back to portfolio": {
+    "en": "Back to portfolio",
+    "fr": "Retour au portfolio",
+    "nl": "Terug naar het portfolio"
+  },
+  "Guest workspace": {
+    "en": "Guest workspace",
+    "fr": "Espace invité",
+    "nl": "Gastomgeving"
+  },
+  "Fictional demonstration organization": {
+    "en": "Fictional demonstration organization",
+    "fr": "Organisation fictive de démonstration",
+    "nl": "Fictieve demo-organisatie"
+  },
+  "Guest demo — fictional data": {
+    "en": "Guest demo — fictional data",
+    "fr": "Démo invité — données fictives",
+    "nl": "Gastdemo — fictieve gegevens"
+  },
+  "Your workspace is private to this browser and expires after 24 hours. Use fictional documents only.": {
+    "en": "Your workspace is private to this browser and expires after 24 hours. Use fictional documents only.",
+    "fr": "Votre espace est propre à ce navigateur et expire après 24 heures. Utilisez uniquement des documents fictifs.",
+    "nl": "Uw omgeving is alleen toegankelijk via deze browser en verloopt na 24 uur. Gebruik uitsluitend fictieve documenten."
+  },
+  "Reset the guest workspace and discard your demo changes?": {
+    "en": "Reset the guest workspace and discard your demo changes?",
+    "fr": "Réinitialiser l’espace invité et effacer vos essais dans la démo ?",
+    "nl": "De gastomgeving opnieuw instellen en uw demowijzigingen wissen?"
+  },
+  "Reset demo": {
+    "en": "Reset demo",
+    "fr": "Réinitialiser la démo",
+    "nl": "Demo opnieuw instellen"
+  },
+  "The demo is busy. Please try again later.": {
+    "en": "The demo is busy. Please try again later.",
+    "fr": "La démo est très sollicitée. Réessayez un peu plus tard.",
+    "nl": "De demo is druk bezet. Probeer het later opnieuw."
+  },
+  "Demo limit reached. Reset your workspace to start again.": {
+    "en": "Demo limit reached. Reset your workspace to start again.",
+    "fr": "Limite de démonstration atteinte. Réinitialisez votre espace pour recommencer.",
+    "nl": "Demolimiet bereikt. Stel uw omgeving opnieuw in om opnieuw te beginnen."
+  },
+  "Demo uploads: fictional documents only, 2 MB per file, 5 MB per upload and 20 MB per workspace.": {
+    "en": "Demo uploads: fictional documents only, 2 MB per file, 5 MB per upload and 20 MB per workspace.",
+    "fr": "Justificatifs fictifs uniquement : 2 Mo par fichier, 5 Mo par envoi et 20 Mo par espace invité.",
+    "nl": "Alleen fictieve documenten: 2 MB per bestand, 5 MB per upload en 20 MB per gastomgeving."
+  },
+  "Main navigation": {
+    "en": "Main navigation",
+    "fr": "Navigation principale",
+    "nl": "Hoofdnavigatie"
+  },
+  "Activity": {
+    "en": "Activity",
+    "fr": "Activité",
+    "nl": "Activiteit"
+  },
+  "Reference data": {
+    "en": "Reference data",
+    "fr": "Référentiels",
+    "nl": "Stamgegevens"
+  },
+  "Administration": {
+    "en": "Administration",
+    "fr": "Administration",
+    "nl": "Beheer"
+  },
+  "Unavailable in the guest demo. Administrator access required.": {
+    "en": "Unavailable in the guest demo. Administrator access required.",
+    "fr": "Indisponible en démo Guest. Accès administrateur requis.",
+    "nl": "Niet beschikbaar in de gastdemo. Beheerderstoegang vereist."
+  },
+  "Or explore FlowExpense": {
+    "en": "Or explore FlowExpense",
+    "fr": "Ou découvrez FlowExpense",
+    "nl": "Of ontdek FlowExpense"
+  },
+  "Try the public demo with fictional expenses. Your personal account stays separate.": {
+    "en": "Try the public demo with fictional expenses. Your personal account stays separate.",
+    "fr": "Essayez la démo publique avec des dépenses fictives. Votre compte personnel reste séparé.",
+    "nl": "Probeer de openbare demo met fictieve uitgaven. Uw persoonlijke account blijft gescheiden."
+  },
+  "Sign in to FlowExpense": {
+    "en": "Sign in to FlowExpense",
+    "fr": "Connexion à FlowExpense",
+    "nl": "Aanmelden bij FlowExpense"
+  },
+  "Guest access": {
+    "en": "Guest access",
+    "fr": "Accès invité",
+    "nl": "Gasttoegang"
+  },
+  "You are visiting the public guest version of FlowExpense. Personal accounts are accessed through the private application.": {
+    "en": "You are visiting the public guest version of FlowExpense. Personal accounts are accessed through the private application.",
+    "fr": "Vous êtes sur la version publique Guest de FlowExpense. Les comptes personnels sont accessibles dans l’application privée.",
+    "nl": "U bezoekt de openbare gastversie van FlowExpense. Persoonlijke accounts zijn toegankelijk via de privéapplicatie."
+  },
+  "Try the demo with fictional expenses. Your guest workspace is separate from registered accounts.": {
+    "en": "Try the demo with fictional expenses. Your guest workspace is separate from registered accounts.",
+    "fr": "Essayez avec des dépenses fictives. Votre espace invité est séparé des comptes enregistrés.",
+    "nl": "Probeer met fictieve uitgaven. Uw gastomgeving is gescheiden van geregistreerde accounts."
+  },
+  "Sign in to my account": {
+    "en": "Sign in to my account",
+    "fr": "Me connecter à mon compte",
+    "nl": "Aanmelden bij mijn account"
+  },
+  "Account access is not configured yet. You can already try the guest demo.": {
+    "en": "Account access is not configured yet. You can already try the guest demo.",
+    "fr": "L’accès aux comptes n’est pas encore configuré. Vous pouvez déjà essayer la démo Guest.",
+    "nl": "Accounttoegang is nog niet ingesteld. U kunt de gastdemo al proberen."
+  }
+}

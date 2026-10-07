@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^(?:vendor|lib)(?:/|$) - [F,L]
+<FilesMatch "(^\.|\.(db|sqlite|sqlite3)(-wal|-shm|-journal)?$|^composer\.(json|lock)$|^hosting-config)">
+    Require all denied
+</FilesMatch>
